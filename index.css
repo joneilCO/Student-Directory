@@ -1,0 +1,12 @@
+.list-group{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 369px;
+    height: 250px;
+    left: 543px;
+    top: 445px;
+}
